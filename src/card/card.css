@@ -1,0 +1,18 @@
+.reaction {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reaction span {
+  cursor: pointer;
+}
+
+.reaction span:hover i {
+  color: rgba(0, 0, 0, 0.623);
+}
+
+.card {
+  background-color: antiquewhite;
+  max-width: 400px;
+  height: 450px;
+}
